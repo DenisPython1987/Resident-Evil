@@ -13,6 +13,7 @@ p{
 
 div{
     border: 1px solid black;
+    border-radius: 10px;
 
 }
 
@@ -37,6 +38,7 @@ div{
 
 .imagem{
     border: 2px solid red;
+    border-radius: 10px;
     width: 50%;
     height: 25%;
     display: block;
@@ -51,6 +53,7 @@ h1{
 
 hr{
     border: 1px solid black;
+    border-radius: 5px;
     background-color: black;
     height: 1px;
 }
